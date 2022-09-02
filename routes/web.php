@@ -23,3 +23,4 @@ Route::get('/',[mycontroller::class,'readdata']);
 //Route::view('update','updateview');
 Route::get('updatedelete',[mycontroller::class,'updateordelete']);
 Route::get('updatedata',[mycontroller::class,'update']);
+//commit
